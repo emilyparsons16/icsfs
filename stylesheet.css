@@ -1,16 +1,16 @@
 /* Define Georgia font */
 @import url('https://fonts.googleapis.com/css2?family=Georgia&display=swap');
 body {
-    font-family: 'Georgia', serif
-    font-color: red
+    font-family: 'Georgia', serif;
+    font-color: red;
     font-size: 20px;
 }
 
 /* Style the checkbox container */
 .checkbox-container {
     display: flex;
-    align-items: center
-    font-color: red
+    align-items: center;
+    font-color: red;
     font-size: 20px;
 }
 
@@ -23,5 +23,7 @@ body {
 /* Style the label */
 .checkbox-container label {
     font-size: 16px;
+    font-color: red;
+    
     /* Add any additional styling as needed */
 }
