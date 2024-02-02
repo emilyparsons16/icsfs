@@ -1,3 +1,23 @@
-.borderSpacingNone{
-	background-color:lightgray;
+/* Define Georgia font */
+@import url('https://fonts.googleapis.com/css2?family=Georgia&display=swap');
+body {
+    font-family: 'Georgia', serif;
+}
+
+/* Style the checkbox container */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Style the checkbox */
+.checkbox-container input[type="checkbox"] {
+    margin-right: 8px;
+    /* Add any additional styling as needed */
+}
+
+/* Style the label */
+.checkbox-container label {
+    font-size: 16px;
+    /* Add any additional styling as needed */
 }
