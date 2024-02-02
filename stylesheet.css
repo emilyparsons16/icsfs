@@ -9,7 +9,9 @@ body {
 /* Style the checkbox container */
 .checkbox-container {
     display: flex;
-    align-items: center;
+    align-items: center
+    font-color: red
+    font-size: 20px;
 }
 
 /* Style the checkbox */
