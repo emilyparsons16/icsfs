@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Georgia&display=swap');
 body {
     font-family: 'Georgia', serif
-    font-color: red;
+    font-color: red
+    font-size: 20px;
 }
 
 /* Style the checkbox container */
